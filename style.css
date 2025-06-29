@@ -1,0 +1,52 @@
+body{
+   margin-left: 0 !important;
+margin-right: 0 !important;
+}
+
+.vimg{
+    border-radius: 50%;
+}
+
+
+.rem_bp{
+    list-style-type: none;
+    padding: 0;
+}
+
+.vh{
+    color: #660a7a !important;
+    font-weight: bolder;
+}
+
+.vph{
+    color: #9668bc;
+    font-size: larger;
+}
+
+.ft{
+    background-color: #660a7a;
+}
+
+.pf{
+    color: #9668bc !important;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
